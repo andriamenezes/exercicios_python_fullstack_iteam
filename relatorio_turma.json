@@ -1,0 +1,13 @@
+{
+  "gerado_em": "2026-05-21 18:18:28",
+  "total_alunos": 8,
+  "media_geral": 7.79,
+  "maior_media": {
+    "nome": "Bia Souza",
+    "media": 9.5
+  },
+  "menor_media": {
+    "nome": "Carlos Melo",
+    "media": 6.17
+  }
+}

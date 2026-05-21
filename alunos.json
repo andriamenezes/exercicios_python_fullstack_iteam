@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "nome": "Ana Lima",
+    "email": "ana@email.com",
+    "idade": 22,
+    "notas": [
+      8.5,
+      9.0,
+      7.5
+    ],
+    "media": 8.33,
+    "ativo": true,
+    "cadastrado_em": "2026-05-21 22:11:59"
+  },
+  {
+    "id": 2,
+    "nome": "Carlos Melo",
+    "email": "carlos@email.com",
+    "idade": 25,
+    "notas": [
+      6.0,
+      7.0,
+      5.5
+    ],
+    "media": 6.17,
+    "ativo": true,
+    "cadastrado_em": "2026-05-21 22:11:59"
+  },
+  {
+    "id": 3,
+    "nome": "Bia Souza",
+    "email": "bia@email.com",
+    "idade": 20,
+    "notas": [
+      9.5,
+      10.0,
+      9.0
+    ],
+    "media": 9.5,
+    "ativo": true,
+    "cadastrado_em": "2026-05-21 22:11:59"
+  },
+  {
+    "id": 4,
+    "nome": "Pedro Henrique",
+    "email": "pedro@email.com",
+    "idade": 23,
+    "notas": [
+      7.0,
+      6.5,
+      8.0
+    ],
+    "media": 7.17,
+    "ativo": true,
+    "cadastrado_em": "2026-05-21 22:11:59"
+  },
+  {
+    "id": 5,
+    "nome": "Ana Lima",
+    "email": "ana@email.com",
+    "idade": 22,
+    "notas": [
+      8.5,
+      9.0,
+      7.5
+    ],
+    "media": 8.33,
+    "ativo": true,
+    "cadastrado_em": "2026-05-21 18:18:28"
+  },
+  {
+    "id": 6,
+    "nome": "Carlos Melo",
+    "email": "carlos@email.com",
+    "idade": 25,
+    "notas": [
+      6.0,
+      7.0,
+      5.5
+    ],
+    "media": 6.17,
+    "ativo": true,
+    "cadastrado_em": "2026-05-21 18:18:28"
+  },
+  {
+    "id": 7,
+    "nome": "Bia Souza",
+    "email": "bia@email.com",
+    "idade": 20,
+    "notas": [
+      9.5,
+      10.0,
+      9.0
+    ],
+    "media": 9.5,
+    "ativo": true,
+    "cadastrado_em": "2026-05-21 18:18:28"
+  },
+  {
+    "id": 8,
+    "nome": "Pedro Henrique",
+    "email": "pedro@email.com",
+    "idade": 23,
+    "notas": [
+      7.0,
+      6.5,
+      8.0
+    ],
+    "media": 7.17,
+    "ativo": true,
+    "cadastrado_em": "2026-05-21 18:18:28"
+  }
+]

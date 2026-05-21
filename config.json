@@ -1,0 +1,16 @@
+{
+  "app": {
+    "nome": "MinhaAPI",
+    "versao": "1.0.0",
+    "debug": true
+  },
+  "banco": {
+    "host": "localhost",
+    "porta": 5432,
+    "nome": "meudb"
+  },
+  "email": {
+    "servidor": "smtp.gmail.com",
+    "porta": 587
+  }
+}

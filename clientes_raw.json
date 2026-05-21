@@ -1,0 +1,7 @@
+[
+  {"id": 1, "nome": "  ana LIMA ",    "email": "ANA@EMAIL.COM",     "telefone": "11912345678",  "cidade": "são paulo"},
+  {"id": 2, "nome": "CARLOS melo",    "email": "CARLOS@GMAIL.COM",  "telefone": "21987654321",  "cidade": "rio de janeiro"},
+  {"id": 3, "nome": "bia   souza",    "email": "BIA@HOTMAIL.COM",   "telefone": "31999990000",  "cidade": "belo horizonte"},
+  {"id": 4, "nome": "PEDRO henrique", "email": "PEDRO@EMPRESA.COM", "telefone": "4133334444",   "cidade": "curitiba"},
+  {"id": 5, "nome": "  LUCIA silva ", "email": "LUCIA@EMAIL.COM",   "telefone": "51988887777",  "cidade": "porto alegre"}
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nome": "Ana Lima",
+    "email": "ana@email.com",
+    "telefone": "(11) 91234-5678",
+    "cidade": "São Paulo",
+    "dominio": "email.com"
+  },
+  {
+    "id": 2,
+    "nome": "Carlos Melo",
+    "email": "carlos@gmail.com",
+    "telefone": "(21) 98765-4321",
+    "cidade": "Rio De Janeiro",
+    "dominio": "gmail.com"
+  },
+  {
+    "id": 3,
+    "nome": "Bia   Souza",
+    "email": "bia@hotmail.com",
+    "telefone": "(31) 99999-0000",
+    "cidade": "Belo Horizonte",
+    "dominio": "hotmail.com"
+  },
+  {
+    "id": 4,
+    "nome": "Pedro Henrique",
+    "email": "pedro@empresa.com",
+    "telefone": "(41) 3333-4444",
+    "cidade": "Curitiba",
+    "dominio": "empresa.com"
+  },
+  {
+    "id": 5,
+    "nome": "Lucia Silva",
+    "email": "lucia@email.com",
+    "telefone": "(51) 98888-7777",
+    "cidade": "Porto Alegre",
+    "dominio": "email.com"
+  }
+]
