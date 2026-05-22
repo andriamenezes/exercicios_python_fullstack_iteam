@@ -654,7 +654,7 @@ def ex15_menu_sistema():
 if __name__ == "__main__":
     print("\n" + "=" * 50)
     print("MÓDULO 2 – Estruturas de Controle")
-    print(f"Aluno(a): <SEU NOME>")
+    print(f"Aluno(a): <Geandria de Menezes>")
     print("=" * 50)
 
     # Descomente linha por linha conforme for resolvendo:
