@@ -3,22 +3,9 @@
 MÓDULO 2 – Estruturas de Controle
 Curso de Capacitação Full Stack – ITEAM
 
-Aluno(a): <SEU NOME COMPLETO AQUI>
-Data    : <DATA DE ENTREGA>
+Aluno(a): <Geandria de Menezes Pereira>
+Data    : <21/05/2026>
 =============================================================
-
-INSTRUÇÕES:
-  1. Substitua <SEU NOME COMPLETO AQUI> e <DATA DE ENTREGA> acima.
-  2. Implemente cada função no espaço indicado com # SUA SOLUÇÃO AQUI.
-  3. Não apague os comentários de orientação.
-  4. Execute o arquivo para testar suas soluções antes de enviar.
-  5. Suba este arquivo na pasta:
-       alunos/<seu_nome>/modulo-02/exercicios.py
-
-COMO EXECUTAR:
-  python exercicios.py
-=============================================================
-"""
 
 
 # ==============================================================
